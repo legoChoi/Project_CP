@@ -2,7 +2,7 @@
 name: Meeting
 about: 개발 회의 관련 내용 작성
 title: "[MEETING] "
-labels: ''
+labels: meeting
 assignees: legoChoi
 
 ---
