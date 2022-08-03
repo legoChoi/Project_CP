@@ -2,8 +2,8 @@
 name: Bug
 about: Create a report to help us improve
 title: "[BUG]"
-labels: bug
-assignees: ''
+labels: bug, todo
+assignees: legoChoi
 
 ---
 
@@ -11,9 +11,9 @@ assignees: ''
 
 ## **내용**
 
-1. 기능 :
-2. 파일명 :
-3. 라인 :
+1. 기능 : 
+2. 파일명 : 
+3. 라인 : 
 
 ## **로그**
 
@@ -23,8 +23,8 @@ assignees: ''
 
 ## **테스트 케이스**
 
--
--
+- 
+- 
 
 ## **해결 방법**
 
